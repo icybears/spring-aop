@@ -1,0 +1,4 @@
+2021-01-06 08:14:50.154  INFO 15192 --- [main] n.s.a.AopSpringBootApplication           : Starting AopSpringBootApplication using Java 11.0.6 on LAPTOP-M0C0NHMU with PID 15192 (C:\Users\isabe\java-practice\aop-spring-boot\target\classes started by isaber in C:\Users\isabe\java-practice\aop-spring-boot)
+2021-01-06 08:14:50.157  INFO 15192 --- [main] n.s.a.AopSpringBootApplication           : No active profile set, falling back to default profiles: default
+2021-01-06 08:14:51.449  INFO 15192 --- [main] n.s.a.AopSpringBootApplication           : Started AopSpringBootApplication in 1.861 seconds (JVM running for 2.342)
+2021-01-06 08:14:51.484  INFO 15192 --- [main] n.s.aopspringboot.ClientAspect           : methode test appelé!
